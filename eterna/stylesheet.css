@@ -1,12 +1,27 @@
+.header {
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+#logo {
+padding-left: 10%;
+}
 nav {
 	float: right;
+	padding-right: 10%;
 }
 
 nav > div {
 	float: left;
-	box-shadow: orange;
+	border-radius: 5px;
+    text-align: center;
+	text-heigh
 	border-radius: 5px;
 	width: 95px;
+}
+nav > div:hover {
+	background-color: orange;
+
 }
 
 head {
