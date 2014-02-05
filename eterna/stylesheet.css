@@ -1,0 +1,14 @@
+nav {
+	float: right;
+}
+
+nav > div {
+	float: left;
+	box-shadow: orange;
+	border-radius: 5px;
+	width: 95px;
+}
+
+head {
+	height: 80px;
+}
