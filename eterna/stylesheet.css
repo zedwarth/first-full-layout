@@ -15,7 +15,6 @@ nav > div {
 	float: left;
 	border-radius: 5px;
     text-align: center;
-	text-heigh
 	border-radius: 5px;
 	width: 95px;
 }
@@ -24,6 +23,14 @@ nav > div:hover {
 
 }
 
-head {
-	height: 80px;
+/* main body */
+#main {
+	background-image: url(./background.jpg), norepeat;
+}
+
+#main * {
+	display: inline
+}
+#main img {
+	float: left;
 }
