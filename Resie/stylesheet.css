@@ -25,3 +25,7 @@ h2{
 	background: #FFFCF0;
 	color: rgb(147,1,-0);
 }
+.top-bar-section li.active:not(.has-form) a:not(.button){
+	background: rgb(147,1,-0);
+}
+
