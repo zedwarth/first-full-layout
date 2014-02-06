@@ -1,0 +1,23 @@
+#main{
+	background-color: #FFFCF0 !important;
+}
+#top-menu{
+	background-color: #FFFCF0;
+}
+.single-mind{
+	background: #FFFCF0;
+}
+.second-mind{
+	background-color: rgb(34,34,34);
+	margin: 0;
+	height: 100%;
+}
+body{
+	color: rgb(186,186,186);
+}
+h2{
+	color: rgb(147,1,-0);
+}
+.photo{
+	width: 600px;
+}
