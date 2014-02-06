@@ -21,3 +21,7 @@ h2{
 .photo{
 	width: 600px;
 }
+.top-bar-section li:not(.has-form) a:not(.button){
+	background: #FFFCF0;
+	color: rgb(147,1,-0);
+}
